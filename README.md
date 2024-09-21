@@ -21,7 +21,7 @@ I am a passionate Software Engineer with expertise in developing scalable and ef
 
 ### 📊 GitHub Stats
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=vupexx&show_icons=true&theme=radical)
 
 ---
 
